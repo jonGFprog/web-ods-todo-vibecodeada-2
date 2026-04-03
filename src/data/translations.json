@@ -1,0 +1,27 @@
+{
+  "home": {
+    "es": "Inicio",
+    "eu": "Hasiera",
+    "en": "Home"
+  },
+  "profundizacion": {
+    "es": "Profundización",
+    "eu": "Sakontze",
+    "en": "Deepening"
+  },
+  "autoevaluacion": {
+    "es": "Autoevaluación",
+    "eu": "Autoebaluazioa",
+    "en": "Self-Assessment"
+  },
+  "videos": {
+    "es": "Vídeos",
+    "eu": "Bideak",
+    "en": "Videos"
+  },
+  "other": {
+    "es": "Otros elementos de la interfaz",
+    "eu": "Beste interfaz-elementuak",
+    "en": "Other interface elements"
+  }
+}

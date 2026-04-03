@@ -1,0 +1,32 @@
+{
+    "ODS": {
+        "4": [],
+        "5": [
+            {
+                "id": "1",
+                "title": "Placeholder Title 1",
+                "summary": "Placeholder summary for the first link.",
+                "difficultyLevel": "Introductorio",  // Replace with Introductorio/Divulgacion tecnica/Documento tecnico
+                "readingTime": 30,  // Replace with estimated reading time in minutes
+                "url": "http://example.com/1",  // Replace with the actual URL
+                "source": "Source Name 1"  // Replace with the source of the link
+            },
+            {
+                "id": "2",
+                "title": "Placeholder Title 2",
+                "summary": "Placeholder summary for the second link.",
+                "difficultyLevel": "Divulgacion tecnica",  // Replace with actual difficulty level
+                "readingTime": 45,  // Replace with estimated reading time
+                "url": "http://example.com/2",  // Replace with actual URL
+                "source": "Source Name 2"  // Replace with actual source
+            }
+        ],
+        "7": [],
+        "8": [],
+        "9": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "16": []
+    }
+}

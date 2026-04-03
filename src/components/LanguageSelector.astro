@@ -1,0 +1,26 @@
+---
+layout: ../layouts/BaseLayout.astro
+---
+
+<script>
+  import { useState } from 'react';
+
+  const LanguageSelector = () => {
+    const [language, setLanguage] = useState('en');
+
+    const changeLanguage = (lang) => {
+      setLanguage(lang);
+      // Here you can add functionality to change language across the app
+    };
+
+    return (
+      <div>
+        <button onClick={() => changeLanguage('en')}>English</button>
+        <button onClick={() => changeLanguage('es')}>Spanish</button>
+        <button onClick={() => changeLanguage('eu')}>Basque</button>
+      </div>
+    );
+  };
+
+  export default LanguageSelector;
+</script>

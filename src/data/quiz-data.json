@@ -1,0 +1,67 @@
+{
+  "questions": [
+    // ODS 4
+    {
+      "id": 1,
+      "text": "[Question text for ODS 4, Question 1]",
+      "options": [
+        "[Option 1 for Question 1]",
+        "[Option 2 for Question 1]",
+        "[Option 3 for Question 1]",
+        "[Option 4 for Question 1]"
+      ],
+      "correct_answer": "[Correct option for Question 1]",
+      "difficulty": "[easy|medium|hard]",
+      "feedback_correct": "[Feedback for correct answer of Question 1]",
+      "feedback_wrong": "[Feedback for wrong answer of Question 1]"
+    },
+    {
+      "id": 2,
+      "text": "[Question text for ODS 4, Question 2]",
+      "options": [
+        "[Option 1 for Question 2]",
+        "[Option 2 for Question 2]",
+        "[Option 3 for Question 2]",
+        "[Option 4 for Question 2]"
+      ],
+      "correct_answer": "[Correct option for Question 2]",
+      "difficulty": "[easy|medium|hard]",
+      "feedback_correct": "[Feedback for correct answer of Question 2]",
+      "feedback_wrong": "[Feedback for wrong answer of Question 2]"
+    },
+    // Repeat similar structure for the remaining questions...
+
+    // ODS 5
+    {
+      "id": 9,
+      "text": "[Question text for ODS 5, Question 1]",
+      "options": [
+        "[Option 1 for Question 1]",
+        "[Option 2 for Question 1]",
+        "[Option 3 for Question 1]",
+        "[Option 4 for Question 1]"
+      ],
+      "correct_answer": "[Correct option for Question 1]",
+      "difficulty": "[easy|medium|hard]",
+      "feedback_correct": "[Feedback for correct answer of Question 1]",
+      "feedback_wrong": "[Feedback for wrong answer of Question 1]"
+    },
+    // Add more questions for ODS 5, followed by ODS 6 to 9
+
+    // ODS 16
+    {
+      "id": 72,
+      "text": "[Question text for ODS 16, Question 8]",
+      "options": [
+        "[Option 1 for Question 8]",
+        "[Option 2 for Question 8]",
+        "[Option 3 for Question 8]",
+        "[Option 4 for Question 8]"
+      ],
+      "correct_answer": "[Correct option for Question 8]",
+      "difficulty": "[easy|medium|hard]",
+      "feedback_correct": "[Feedback for correct answer of Question 8]",
+      "feedback_wrong": "[Feedback for wrong answer of Question 8]"
+    }
+  ]
+}
